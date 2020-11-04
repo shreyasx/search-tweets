@@ -1,0 +1,15 @@
+{
+  "name": "twitter-example",
+  "version": "1.0.0",
+  "description": "This is my first twitter example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node search Tweets.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shreyas Jamkhandi",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
